@@ -45,6 +45,9 @@ div div.overlay {
     font-size: 17px;
     font-weight: 600;
 }
+.navbar-brand img{
+    width: 180px;
+}
 
 /* home************************** */
 
